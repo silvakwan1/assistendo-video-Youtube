@@ -4,4 +4,4 @@ Neste projeto, clonei a interface de assistir vídeos de um YouTuber. Para isso,
 
 Você pode conferir como ficou o site através do link abaixo:
 
-[🔗 Visualizar Assistindo Vídeo no YouTube](https://silvakwan1.github.io/assistindo-video-Youtube/)
+[🔗 Visualizar Assistindo Vídeo no YouTube](https://silvakwan1.github.io/assistendo-video-Youtube/)
